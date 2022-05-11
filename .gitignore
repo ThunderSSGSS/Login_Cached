@@ -1,0 +1,12 @@
+#Compiled Files
+*.com
+*.class
+*.dll
+*.exe
+*.so
+*.pyc
+
+#Data
+*.sqlite3
+*.rdb
+*.png
